@@ -1,0 +1,23 @@
+.team-card{
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0.08);
+    transition: transform 0.2s, box-shadow 0.2s;
+
+}
+.team-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+.teamcard-member-name{
+    font-size: 1.1rem;
+    margin-bottom: 0.25rem;
+
+}
+
+.teamcard-role{
+    color: #64748b;
+    font-size: 0.9rem;
+}

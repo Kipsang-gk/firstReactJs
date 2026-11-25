@@ -25,7 +25,7 @@ function App(){
   // const sum = add(20, 30)
   // const product = multiply(20, 30)
   const title = "Meet our Team"
-  const slogan = "The Best Team in the world!"
+  const slogan = "The Best Team in the World!"
   const teamMembers = [
     {id: 1, name: "Korir Kipsang", role: "Managing Director"},
     {id: 2, name: "Miriam Cherotich", role: "CEO "},

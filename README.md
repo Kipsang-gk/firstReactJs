@@ -56,7 +56,9 @@ Footer- footer content
                 Footer    
 
 
-
+## styling approaches in react
+- Global css: index.css 
+-css styles per component, app.jsx
 
 
 

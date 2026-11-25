@@ -1,3 +1,4 @@
+import "../App.css"
 import TeamCard from "./TeamCard"
 
 function Footer({year}){

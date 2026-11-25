@@ -1,3 +1,4 @@
+import "../styles/teamcard.css"
 function TeamCard({member}){
     return(
         <div className="team-card">

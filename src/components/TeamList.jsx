@@ -1,5 +1,5 @@
 import TeamCard from "./TeamCard"
-
+import "../App.css"
 function TeamList({members}){
     return(
         <section className="team-list">
